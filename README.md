@@ -1,2 +1,2 @@
-# DAY-2-assignment
+# All assignment will be in same repository
 assignment submission.
